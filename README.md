@@ -6,6 +6,11 @@ The model used for this project is a pre-trained model that is provided as  oliv
 This model majorly predicts the punctuation of English, Italian, French and German texts. Some of the changes were done in the model to predict the punctuation in Hindi Language as well.
 
 ## Requirements
-* Python
+* Python 3.5+
 * Transformers
 * SentencePiece
+* Spacy
+
+## Contents
+* Pre-trained model: The model used for this project is a pre-trained model that is provided as  oliverguhr/full stop-punctuation-multilang-large (Owner: Oliver Guhr).
+* Notebooks: Jupyter Notebook for using pre-trained model and performing addition of punctuation in sentences/paragraph.
