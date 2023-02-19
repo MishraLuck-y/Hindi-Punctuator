@@ -46,6 +46,6 @@ from IPython.core.display import display, HTML
 
 ![Output 2](https://user-images.githubusercontent.com/90191522/219960108-14ee3881-dc3e-43a8-ae21-fb0f1528edf4.png)
 
-Output using spacy: 
+* Output using spacy: 
 ![Output](https://user-images.githubusercontent.com/90191522/219959637-4cdcbd1c-b7dc-450a-933f-1650f36d28ce.png)
 
