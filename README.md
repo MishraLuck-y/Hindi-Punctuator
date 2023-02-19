@@ -36,3 +36,16 @@ from IPython.core.display import display, HTML
 * Print the output with appended punctuation at the suitable place
 
 > :warning: **Note: Use of spacy is optional it is just used for visualization of punctuations after a word.**
+
+## Input and Output:
+* **Input is the paragraph without any punctuations.**
+* **Output is the paragraph with punctuations at appropriate position.**
+* Input: एक इंसान अपने जीवन में महान कब बनता है जब वो महान कार्य करता है अब उस महानता के सफर को तय कैसे किया जाता है इस दुनिया का हर एक इंसान उस महानता के सफर को तय नहीं कर सकता है लेकिन अगर आप उन महानता की सीढ़ियों पर चलना चाहते है तो कुछ ऐसी बातें है जो कि आपको मरते दम तक याद रखनी है एक सच हमेशा याद रखिये जिसने भी खुद को अपने काम में खर्च किया है दुनिया ने उसी इंसान को google पर search किया है तारीफ हमेशा इंसान के काम की होती है न कि इंसान की इसलिए जीवन में हमेशा काम वो करे जिससे कि तुम्हारा नाम हो जाये
+
+* Output without spacy:
+
+![Output 2](https://user-images.githubusercontent.com/90191522/219960108-14ee3881-dc3e-43a8-ae21-fb0f1528edf4.png)
+
+Output using spacy: 
+![Output](https://user-images.githubusercontent.com/90191522/219959637-4cdcbd1c-b7dc-450a-933f-1650f36d28ce.png)
+
